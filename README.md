@@ -14,3 +14,5 @@ Scraps of C code from coding websites, textbooks, etc
 I learned C in two courses in university. The standard of C I learned was very outdated, but gave me a love for the lack of black-box behavior, in general.
 I really want to be a much better C Programmer; so I am endeavoring to practice the language as much as I can.
 
+I'm not really sure if this will turn into anything in particular, but I really prefer the lower level behaviors.
+
